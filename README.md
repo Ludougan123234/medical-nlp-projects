@@ -7,16 +7,21 @@
 ### Objective: 
 
 ### Techniques used: 
-- Machine learning: 
-     1. 
-- 
+- Machine learning (Scikit-learn, xgboost) 
+     1. Support Vector Machine
+     2. Random Forest
+     3. XGBoost
+     4. Ensemble methods
+- Deep learning (transformers)
+     1. BERT, electra
+
 
 ---
 ## Project 2: Named Entity Extraction (Psychiatric treatment adverse reactions)
 
-Objective: 
+### Objective: 
 
-Techniques used: 
+### Techniques used: 
 - Machine learning: 
      - Conditional random field (pycrf)
 - Deep learning: 
