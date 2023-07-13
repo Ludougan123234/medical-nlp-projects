@@ -7,13 +7,18 @@
 ### Objective: 
 
 ### Techniques used: 
+- Pre-processing:
+     1. Regex
+     2. TF-IDF 
+     3. Tokenization
+     4. Stop-word removal
 - Machine learning (Scikit-learn, xgboost) 
      1. Support Vector Machine
      2. Random Forest
      3. XGBoost
      4. Ensemble methods
 - Deep learning (transformers)
-     1. BERT, electra
+     1. [BERT](https://huggingface.co/docs/transformers/model_doc/bert) and [ELECTRA](https://huggingface.co/docs/transformers/model_doc/electra)
 
 
 ---
