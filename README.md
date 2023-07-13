@@ -17,8 +17,7 @@
      2. Random Forest
      3. XGBoost
      4. Ensemble methods
-- Deep learning (transformers)
-     1. [BERT](https://huggingface.co/docs/transformers/model_doc/bert) and [ELECTRA](https://huggingface.co/docs/transformers/model_doc/electra)
+- Deep learning (transformers, [BERT](https://huggingface.co/docs/transformers/model_doc/bert), and [ELECTRA](https://huggingface.co/docs/transformers/model_doc/electra))
 
 
 ---
@@ -32,7 +31,6 @@
 - Deep learning: 
      - Bidirectional Long-short Term Memory (Tensorflow)
 - Word embeddings (GloVe and BioWordVec)
-- MetaMap 2017
-- 
+- MetaMap 2018
 
 ---
