@@ -19,6 +19,7 @@ Given a dataset with tweets that indicate physical activities and the time when 
 
 
 ---
+
 ## Project 2: Named Entity Extraction (Psychiatric treatment adverse reactions)
 
 ### Objective: 
